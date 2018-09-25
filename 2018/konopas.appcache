@@ -1,0 +1,19 @@
+CACHE MANIFEST
+# 2018-09-25 23:36:12
+
+CACHE:
+data/program.js
+data/people.js
+data/title.jpg
+skin/fonts.css
+skin/canceled.css
+skin/skin.css
+skin/icons.png
+skin/Roboto300.ttf
+skin/Roboto500.ttf
+skin/Oswald400.ttf
+favicon.ico
+konopas.min.js
+
+NETWORK:
+*
